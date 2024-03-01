@@ -1,4 +1,4 @@
-<h1>Word Search Game</h1>
+<h1 align="centre">Word Search Game</h1>
 <p>
   The word search game is developed using html,css,javascript and jQuery. 
 </p>
