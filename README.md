@@ -1,6 +1,6 @@
 <h1 align="centre">Word Search Game</h1>
 <p>
-  The word search game is developed using html,CSS, javascript and jQuery. 
+  The word search game is developed using HTML, CSS, JavaScript and jQuery. 
 </p>
 <h2>Rules:</h2>
 <ol>
@@ -11,7 +11,7 @@
   10 Levels in the game.
 </p>
 <p> 
-  Scores and high score is maintained.
+  Scores and high scores are maintained.
 </p>
 <h2>Snapshots of the game:</h2>
 <h3>Home Page</h3>
