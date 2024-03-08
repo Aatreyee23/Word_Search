@@ -2,7 +2,7 @@
 <p>
   The word search game is developed using HTML, CSS, JavaScript and jQuery. 
 </p>
-<h2>Rules:</h2>
+<h2>Rules:</h2> 
 <ol>
   <li>The words are being displayed vertically, horizontally or diagonally.</li>
   <li>Select the word and then press the ctrl key to check if the selected word matches any of the words in the list.</li>
