@@ -10,7 +10,7 @@
 <p>
   10 Levels in the game.
 </p>
-<p>
+<p> 
   Scores and high score is maintained.
 </p>
 <h2>Snapshots of the game:</h2>
